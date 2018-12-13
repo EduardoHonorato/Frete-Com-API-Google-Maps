@@ -9,13 +9,13 @@ O projeto é bem simples, uma página com um formulário na qual você preencher
 Link da aplicação: https://github.com/EduardoHonorato/Frete-Com-API-Google-Maps
 Aos desenvolvedores e colaboradores
 A partir daqui, segue informações técnicas sobre o projeto, como colaborar, desenvolver, utilização da API, etc.
-
-Como colaborar?
+<br>
+<h2>Como colaborar?</h2>
 Para colaborar com o projeto é simples, basta realizar um Fork do projeto, realizar modificações, correções, implementações, etc, e depois nos enviar um Pull Request.
-
+<br>
 Não tem experiencia em desenvolvimento? Não tem problema, deixe seu comentário/sugestão diretamente em nossas Issues.
-
-Utilização da API
+<br>
+<h2>Utilização da API</h2>
 A API gratuita do Google Maps é bem simples de ser usada, veja abaixo com mais detalhes como ela funciona e como deverá ser implementada no projeto:
 
 https://cloud.google.com/maps-platform/?hl=pt-BR
