@@ -1,3 +1,7 @@
+<h1 style="color:#f00;"> AVISO</h1>
+Agora o Google Maps está funcionando de maneira diferente, além de informar sua api key o que já era normal quando você declara o js, você tem que habilitar no painel do maps sua aplicação, e ele está cobrando U$7,00 por 100.000 requisições.
+
+
 <h1> O que é?</h1>
 O projeto "Frete com Google Maps API" visa a solicitação de de coordenadas de rotas juntamente com o cálculo de distância entre ceps com valor de deslocamento.
 
