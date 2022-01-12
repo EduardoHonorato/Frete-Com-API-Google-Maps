@@ -9,7 +9,7 @@ O projeto "Frete com Google Maps API" visa a solicitação de de coordenadas de 
 Após muita pesquisa não encontrei nada relacionado, então desenvolvi esse sistema simples para base de cálculo, o mesmo está disponível para download e aprimoração.
 
 <h2>Como usar?</h2>
-O projeto é bem simples, uma página com um formulário na qual você preencherá o cep do remetende da entrega e o seu destino. Há variaveis em Javascript onde encontra-se o cálculo por KM excedente e o normal. Há um limite de Km rodados, ou seja, se o valor do frete for menor que o pedido pelo cliente ele joga o valor mínimo a ser definido por você.
+O projeto é bem simples, uma página com um formulário na qual você preencherá o cep do remetente da entrega e o seu destino. Há variaveis em Javascript onde encontra-se o cálculo por KM excedente e o normal. Há um limite de Km rodados, ou seja, se o valor do frete for menor que o pedido pelo cliente ele joga o valor mínimo a ser definido por você.
 Link da aplicação: https://github.com/EduardoHonorato/Frete-Com-API-Google-Maps
 Aos desenvolvedores e colaboradores
 A partir daqui, segue informações técnicas sobre o projeto, como colaborar, desenvolver, utilização da API, etc.
